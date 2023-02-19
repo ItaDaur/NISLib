@@ -1,0 +1,64 @@
+.inner {
+    font-size: 12px;
+
+}
+
+.pay {
+    margin-top: 40px;
+    margin-bottom: 100px;
+    background: url(../img/icons/box.png);
+    background-size: 1250px 484px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.innerblock {
+    margin-bottom: 140px;
+}
+
+.system {
+    margin-left: 300px;
+}
+
+.tole {
+    margin-left: 150px;
+    box-shadow: 0 0 0 3px black;
+    border-radius: 10px;
+}
+
+.aksha {
+    color: #DFDBDB;
+    display: inline-block;
+    margin-left: 150px;
+}
+
+#with {
+    margin-top: -20px;
+}
+
+#nd {
+    margin-left: 153px;
+}
+
+#rd {
+    margin-left: 168px;
+
+}
+
+#idishka {
+    margin-left: -200px;
+    margin-bottom: 100px;
+}
+
+.left {
+    margin-left: 520px;
+}
+
+.last {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.bootom {
+    margin-top: 100px;
+}
